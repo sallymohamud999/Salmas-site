@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GitHub Pages
+# Salmas Github Page
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
@@ -19,7 +19,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 -->
 
 <details id=0>
-<summary><h2>Welcome</h2></summary>
+<summary><h2>Content</h2></summary>
+
+Welcome to my Github Page!
 
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
